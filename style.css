@@ -1,0 +1,35 @@
+/*.main-block {
+    width: 768px;
+    height: 768px;
+    margin: 53px auto;
+    border: 7px solid black;
+}
+.block {
+    width: 96px;
+    height: 96px;
+    float: left;
+}
+.black {
+    background: #000;
+}
+.white {
+    background: #fff;
+} */
+
+.main-block {
+    width: 768px;
+    height: 768px;
+    margin: 53px auto;
+    border: 7px solid black;
+}
+.block {
+    width: 96px;
+    height: 96px;
+    float: left;
+}
+.black {
+    background: #000;
+}
+.white {
+    background: #fff;
+} 
